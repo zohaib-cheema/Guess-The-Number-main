@@ -1,0 +1,2 @@
+I developed a C++ game that allows a computer to produce a random number (1-1000) and asks the user to guess the value. If the data entered by the user and the data generated does not match, the program outputs whether the inputted data is "Higher" or "Lower" than the value being guessed. When the value is correctly guessed, C++ congratulates the user! alongside the number of guesses, the player took to finally guess the secret number.
+(PS. a special message for users who get it on their first try!)
